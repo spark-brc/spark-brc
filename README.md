@@ -1,5 +1,5 @@
-### Hi there 👋
-### Good to see you!
+![image](imgs/sp.gif)
+
 
 <!--
 **spark-brc/spark-brc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
