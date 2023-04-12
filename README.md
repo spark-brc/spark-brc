@@ -1,4 +1,4 @@
-![image](imgs/sp02.gif)
+![image](https://github.com/spark-brc/spark-brc/blob/master/imgs/sp02.gif)
 
 
 <!--
